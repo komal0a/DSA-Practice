@@ -1,12 +1,27 @@
-# DSA Practice
+# DSA-Practice 🚀
 
-This repository contains my DSA preparation for placements.
-Structured topic-wise, includes solutions from A2Z, Striver SDE Sheet, and more.
+This repository contains my daily solved problems from Striver's DSA Sheet and LeetCode.
 
-## Topics Covered
+## 🔹 Topics Covered
+
 - Recursion
-- Dynamic Programming
-- Trees
-- Graphs
 - Arrays
-- And more...
+- Backtracking
+- Bit Manipulation
+- More coming...
+
+## 🔧 Tools Used
+
+- C++
+- Visual Studio Code
+- Git & GitHub
+
+## 💡 Goals
+
+- Master DSA before end of July
+- Improve problem-solving and pattern recognition
+- Crack placement interviews with confidence 💪
+
+## 🔗 Profile
+- LeetCode: [k_Komal312](https://leetcode.com/k_Komal312/)
+- GitHub: [komal0a](https://github.com/komal0a)
