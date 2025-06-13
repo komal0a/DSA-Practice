@@ -1,0 +1,13 @@
+
+
+# Ignore compiled files
+*.exe
+*.out
+*.class
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore macOS and Windows junk
+.DS_Store
+Thumbs.db
