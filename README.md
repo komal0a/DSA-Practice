@@ -8,7 +8,7 @@ This repository contains my daily solved problems from Striver's DSA Sheet and L
 - Arrays
 - Backtracking
 - Bit Manipulation
-- More coming...
+- Graph
 
 ## 🔧 Tools Used
 
