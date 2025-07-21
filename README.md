@@ -9,6 +9,7 @@ This repository contains my daily solved problems from Striver's DSA Sheet and L
 - Backtracking
 - Bit Manipulation
 - Graph
+- Dynamic Programming
 
 ## 🔧 Tools Used
 
